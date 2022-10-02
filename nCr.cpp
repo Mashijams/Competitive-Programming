@@ -1,6 +1,5 @@
 ll fact[N], revfact[N];
 
-
 void factorial()
 {
   fact[0] = 1;
